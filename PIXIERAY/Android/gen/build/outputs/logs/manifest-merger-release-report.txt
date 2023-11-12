@@ -1,0 +1,507 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1-5294
+INJECTED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1-5294
+INJECTED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1-5294
+INJECTED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1-5294
+MERGED from [WD280Android.aar] C:\Users\f_ham\.gradle\caches\transforms-3\39698924c3b566b1c4d98516c6930912\transformed\jetified-WD280Android\AndroidManifest.xml:2:1-7:12
+MERGED from [wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:2:1-41:12
+MERGED from [com.google.android.material:material:1.8.0] C:\Users\f_ham\.gradle\caches\transforms-3\a787be8107bee30b865dac4c677f35b6\transformed\material-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha03] C:\Users\f_ham\.gradle\caches\transforms-3\7de5cffe1d8907047cfc94c970fbb97a\transformed\swiperefreshlayout-1.1.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\f_ham\.gradle\caches\transforms-3\c2264b44cdf41e50859f439de99e97c2\transformed\exifinterface-1.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\f_ham\.gradle\caches\transforms-3\56e51dfb3e9509ecfb156e062dadb52d\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.5.0] C:\Users\f_ham\.gradle\caches\transforms-3\a7155e07058102d6d52f172c65dd5bcb\transformed\jetified-appcompat-resources-1.5.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.5.0] C:\Users\f_ham\.gradle\caches\transforms-3\b105e5f46986d4d643f42b3fea0da014\transformed\appcompat-1.5.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\f_ham\.gradle\caches\transforms-3\995d3741e8f5e68cdd4cc6fee80ac549\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\f_ham\.gradle\caches\transforms-3\b955ec6827059c5474aa1b59546e30d3\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\f_ham\.gradle\caches\transforms-3\93b5abff8d4a696f8b0628e2d97b89d8\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\f_ham\.gradle\caches\transforms-3\23e2111cf45fdfb26433802eb6137314\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\f_ham\.gradle\caches\transforms-3\0096461cfad969bc23c5aa624c11879c\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\f_ham\.gradle\caches\transforms-3\fcf90e484b1aa51264e9b53e23a04bcd\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\f_ham\.gradle\caches\transforms-3\1bffb2e2a6bce2a4bc74c4253ddebd21\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\f_ham\.gradle\caches\transforms-3\99048728c61cf207bf3e2bfc54cdcecd\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\f_ham\.gradle\caches\transforms-3\533ca35e76fc7b7d7f0245ce292cd66e\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\f_ham\.gradle\caches\transforms-3\485df9aa341fba5e49e5f658e35760fd\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.5.0] C:\Users\f_ham\.gradle\caches\transforms-3\afa59bb9d0133b30ceb4293fb442ecd0\transformed\jetified-activity-1.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\f_ham\.gradle\caches\transforms-3\d0b3f7fa4a0895001e815c90926dfe58\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\f_ham\.gradle\caches\transforms-3\f1e271b98f006f3ae4e16de57e6f0f19\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.0] C:\Users\f_ham\.gradle\caches\transforms-3\910321fcb583f3692255c11f132f121b\transformed\lifecycle-viewmodel-2.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.0] C:\Users\f_ham\.gradle\caches\transforms-3\d47e28b80e8f19db68d56078ae6af3a8\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\f_ham\.gradle\caches\transforms-3\dcbb1dd92765412344d014d9e3e1ee4e\transformed\jetified-core-ktx-1.8.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\f_ham\.gradle\caches\transforms-3\e174114314f36cca8a25927a74242f94\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\f_ham\.gradle\caches\transforms-3\e54e561548c65fa8928b0a5331f40d5f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\f_ham\.gradle\caches\transforms-3\88efdb146fb5d0d1a00f99febf7efe0b\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\f_ham\.gradle\caches\transforms-3\0a023fc8211dd526833fd13ed6c15de3\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\f_ham\.gradle\caches\transforms-3\d60bba4ef59b2b320f47e65bcdea3f57\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.8.0] C:\Users\f_ham\.gradle\caches\transforms-3\8c18ab4978080bf764bfd1d03beac24a\transformed\core-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\f_ham\.gradle\caches\transforms-3\88ac84b0b03e4efb8c913799fd276066\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\f_ham\.gradle\caches\transforms-3\1589689a8c202ea9326e57dc942a6912\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\f_ham\.gradle\caches\transforms-3\db71e0f4d30cd839f95b3cd614158a19\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.0] C:\Users\f_ham\.gradle\caches\transforms-3\504e3c426935b8797cd44d78f6fa0620\transformed\lifecycle-runtime-2.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\f_ham\.gradle\caches\transforms-3\910181807b3f83e188218eff54671701\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.0] C:\Users\f_ham\.gradle\caches\transforms-3\f76bb44c4b8af80bef4d205b0e29350e\transformed\lifecycle-livedata-core-2.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\f_ham\.gradle\caches\transforms-3\2adb656e6e72d5d4c5dabd3f88540ad1\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\f_ham\.gradle\caches\transforms-3\299fd85d11d7744cf0d2d04f16db9ab2\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\f_ham\.gradle\caches\transforms-3\acac584622ed1e5b59339e4a050a7778\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\f_ham\.gradle\caches\transforms-3\e3bfbcff359db15700f2231acacdf637\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\f_ham\.gradle\caches\transforms-3\4cc7316bb94ef5d14c99c120f2ca9125\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\f_ham\.gradle\caches\transforms-3\0f600f34a0e2ef2781a3657b58373a46\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\f_ham\.gradle\caches\transforms-3\c3b8c166bf630a074ca9fc779e9a130a\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\f_ham\.gradle\caches\transforms-3\8a856e686e86b8095264b552cb026e20\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1-5294
+INJECTED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1-5294
+INJECTED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1-5294
+	package
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:117-149
+		INJECTED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml
+		INJECTED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:150-180
+		INJECTED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml
+		INJECTED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:70-116
+	xmlns:android
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:181-205
+		INJECTED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml
+		INJECTED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml
+	android:installLocation
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:206-236
+application
+ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:237-4775
+MERGED from [wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:39:5-20
+MERGED from [wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:39:5-20
+MERGED from [com.google.android.material:material:1.8.0] C:\Users\f_ham\.gradle\caches\transforms-3\a787be8107bee30b865dac4c677f35b6\transformed\material-1.8.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.8.0] C:\Users\f_ham\.gradle\caches\transforms-3\a787be8107bee30b865dac4c677f35b6\transformed\material-1.8.0\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\f_ham\.gradle\caches\transforms-3\56e51dfb3e9509ecfb156e062dadb52d\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\f_ham\.gradle\caches\transforms-3\56e51dfb3e9509ecfb156e062dadb52d\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\f_ham\.gradle\caches\transforms-3\e54e561548c65fa8928b0a5331f40d5f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\f_ham\.gradle\caches\transforms-3\e54e561548c65fa8928b0a5331f40d5f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.8.0] C:\Users\f_ham\.gradle\caches\transforms-3\8c18ab4978080bf764bfd1d03beac24a\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] C:\Users\f_ham\.gradle\caches\transforms-3\8c18ab4978080bf764bfd1d03beac24a\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\f_ham\.gradle\caches\transforms-3\1589689a8c202ea9326e57dc942a6912\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\f_ham\.gradle\caches\transforms-3\1589689a8c202ea9326e57dc942a6912\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\f_ham\.gradle\caches\transforms-3\db71e0f4d30cd839f95b3cd614158a19\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\f_ham\.gradle\caches\transforms-3\db71e0f4d30cd839f95b3cd614158a19\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\f_ham\.gradle\caches\transforms-3\acac584622ed1e5b59339e4a050a7778\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\f_ham\.gradle\caches\transforms-3\acac584622ed1e5b59339e4a050a7778\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:requestLegacyExternalStorage
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:485-528
+	android:extractNativeLibs
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:529-561
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] C:\Users\f_ham\.gradle\caches\transforms-3\8c18ab4978080bf764bfd1d03beac24a\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:312-344
+	android:resizeableActivity
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:415-448
+	android:largeHeap
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:389-413
+	android:icon
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:345-388
+	android:usesCleartextTraffic
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:449-484
+	android:name
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:250-311
+activity#com.innovgeek.pixieray.wdgen.GWDPPIXIERAY$WDLanceur
+ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:562-998
+	android:label
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:617-649
+	android:exported
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:822-845
+	android:configChanges
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:719-821
+	android:theme
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:650-718
+	android:name
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:572-616
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:846-987
+action#android.intent.action.MAIN
+ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:861-912
+	android:name
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:869-910
+category#android.intent.category.LAUNCHER
+ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:912-971
+	android:name
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:922-969
+activity#com.innovgeek.pixieray.wdgen.GWDFFEN_login$WDActiviteFenetre
+ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:998-1289
+	android:screenOrientation
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1209-1251
+	android:hardwareAccelerated
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1252-1287
+	android:configChanges
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1062-1171
+	android:theme
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1172-1208
+	android:name
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1008-1061
+activity#com.innovgeek.pixieray.wdgen.GWDFFEN_splash1$WDActiviteFenetre
+ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1289-1582
+	android:screenOrientation
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1502-1544
+	android:hardwareAccelerated
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1545-1580
+	android:configChanges
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1355-1464
+	android:theme
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1465-1501
+	android:name
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1299-1354
+activity#com.innovgeek.pixieray.wdgen.GWDFFEN_home$WDActiviteFenetre
+ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1582-1872
+	android:screenOrientation
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1792-1834
+	android:hardwareAccelerated
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1835-1870
+	android:configChanges
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1645-1754
+	android:theme
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1755-1791
+	android:name
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1592-1644
+activity#com.innovgeek.pixieray.wdgen.GWDFFEN_signup$WDActiviteFenetre
+ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1872-2164
+	android:screenOrientation
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:2084-2126
+	android:hardwareAccelerated
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:2127-2162
+	android:configChanges
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1937-2046
+	android:theme
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:2047-2083
+	android:name
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1882-1936
+activity#com.innovgeek.pixieray.wdgen.GWDFFEN_setup$WDActiviteFenetre
+ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:2164-2455
+	android:screenOrientation
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:2375-2417
+	android:hardwareAccelerated
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:2418-2453
+	android:configChanges
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:2228-2337
+	android:theme
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:2338-2374
+	android:name
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:2174-2227
+activity#com.innovgeek.pixieray.wdgen.GWDFFEN_pop_on$WDActiviteFenetre
+ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:2455-2711
+	android:hardwareAccelerated
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:2674-2709
+	android:configChanges
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:2520-2629
+	android:theme
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:2630-2673
+	android:name
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:2465-2519
+activity#com.innovgeek.pixieray.wdgen.GWDFFEN_progress$WDActiviteFenetre
+ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:2711-3005
+	android:screenOrientation
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:2925-2967
+	android:hardwareAccelerated
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:2968-3003
+	android:configChanges
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:2778-2887
+	android:theme
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:2888-2924
+	android:name
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:2721-2777
+activity#com.innovgeek.pixieray.wdgen.GWDFFEN_splash$WDActiviteFenetre
+ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3005-3297
+	android:screenOrientation
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3217-3259
+	android:hardwareAccelerated
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3260-3295
+	android:configChanges
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3070-3179
+	android:theme
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3180-3216
+	android:name
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3015-3069
+activity#com.innovgeek.pixieray.wdgen.GWDFFEN_dash$WDActiviteFenetre
+ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3297-3587
+	android:screenOrientation
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3507-3549
+	android:hardwareAccelerated
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3550-3585
+	android:configChanges
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3360-3469
+	android:theme
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3470-3506
+	android:name
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3307-3359
+uses-library#org.apache.http.legacy
+ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3587-3665
+	android:required
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3639-3663
+	android:name
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3601-3638
+activity#fr.pcsoft.wdjava.ui.activite.WDActivite$BlankActivity
+ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3665-3835
+	tools:node
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3813-3833
+	android:theme
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3744-3812
+	android:name
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3675-3743
+activity#fr.pcsoft.wdjava.core.erreur.report.WDErrorReportActivity
+ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3835-3997
+	tools:node
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3975-3995
+	android:theme
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3918-3974
+	android:name
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3845-3917
+provider#androidx.core.content.FileProvider
+ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3997-4309
+	tools:node
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4175-4195
+	android:grantUriPermissions
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4140-4174
+	android:authorities
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4057-4114
+	android:exported
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4115-4139
+	android:name
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4007-4056
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4196-4298
+	android:resource
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4258-4296
+	android:name
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4207-4257
+receiver#fr.pcsoft.wdjava.core.utils.WDAppUtils$APKInstallBroadcastReceiver
+ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4309-4448
+	tools:node
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4426-4446
+	android:exported
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4401-4425
+	android:name
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4319-4400
+service#fr.pcsoft.wdjava.core.service.WDServiceLocal
+ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4448-4518
+	android:name
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4457-4516
+meta-data#fr.pcsoft.first_window_name
+ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4518-4600
+	android:value
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4572-4598
+	android:name
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4529-4571
+meta-data#fr.pcsoft.splash_orientation_phone
+ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4600-4680
+	android:value
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4661-4678
+	android:name
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4611-4660
+meta-data#fr.pcsoft.splash_orientation_tablet
+ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4680-4761
+	android:value
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4742-4759
+	android:name
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4691-4741
+supports-screens
+ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4775-4934
+	android:largeScreens
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4850-4877
+	android:smallScreens
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4793-4820
+	android:normalScreens
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4821-4849
+	android:xlargeScreens
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4878-4906
+	android:anyDensity
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4907-4932
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4934-5009
+MERGED from [wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:33:5-81
+MERGED from [wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:33:5-81
+	android:name
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4951-5007
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:5009-5083
+MERGED from [wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:37:5-80
+MERGED from [wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:37:5-80
+	android:name
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:5026-5081
+uses-permission#android.permission.READ_MEDIA_VIDEO
+ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:5083-5152
+	android:name
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:5100-5150
+uses-permission#android.permission.INTERNET
+ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:5152-5213
+MERGED from [wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:36:5-67
+MERGED from [wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:36:5-67
+	android:name
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:5169-5211
+uses-permission#android.permission.READ_MEDIA_IMAGES
+ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:5213-5283
+	android:name
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:5230-5281
+uses-sdk
+INJECTED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml
+INJECTED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml
+MERGED from [WD280Android.aar] C:\Users\f_ham\.gradle\caches\transforms-3\39698924c3b566b1c4d98516c6930912\transformed\jetified-WD280Android\AndroidManifest.xml:5:5-44
+MERGED from [WD280Android.aar] C:\Users\f_ham\.gradle\caches\transforms-3\39698924c3b566b1c4d98516c6930912\transformed\jetified-WD280Android\AndroidManifest.xml:5:5-44
+MERGED from [wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:9:5-11:41
+MERGED from [wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:9:5-11:41
+MERGED from [com.google.android.material:material:1.8.0] C:\Users\f_ham\.gradle\caches\transforms-3\a787be8107bee30b865dac4c677f35b6\transformed\material-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.8.0] C:\Users\f_ham\.gradle\caches\transforms-3\a787be8107bee30b865dac4c677f35b6\transformed\material-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha03] C:\Users\f_ham\.gradle\caches\transforms-3\7de5cffe1d8907047cfc94c970fbb97a\transformed\swiperefreshlayout-1.1.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha03] C:\Users\f_ham\.gradle\caches\transforms-3\7de5cffe1d8907047cfc94c970fbb97a\transformed\swiperefreshlayout-1.1.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\f_ham\.gradle\caches\transforms-3\c2264b44cdf41e50859f439de99e97c2\transformed\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\f_ham\.gradle\caches\transforms-3\c2264b44cdf41e50859f439de99e97c2\transformed\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\f_ham\.gradle\caches\transforms-3\56e51dfb3e9509ecfb156e062dadb52d\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\f_ham\.gradle\caches\transforms-3\56e51dfb3e9509ecfb156e062dadb52d\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.5.0] C:\Users\f_ham\.gradle\caches\transforms-3\a7155e07058102d6d52f172c65dd5bcb\transformed\jetified-appcompat-resources-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.5.0] C:\Users\f_ham\.gradle\caches\transforms-3\a7155e07058102d6d52f172c65dd5bcb\transformed\jetified-appcompat-resources-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.0] C:\Users\f_ham\.gradle\caches\transforms-3\b105e5f46986d4d643f42b3fea0da014\transformed\appcompat-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.0] C:\Users\f_ham\.gradle\caches\transforms-3\b105e5f46986d4d643f42b3fea0da014\transformed\appcompat-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\f_ham\.gradle\caches\transforms-3\995d3741e8f5e68cdd4cc6fee80ac549\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\f_ham\.gradle\caches\transforms-3\995d3741e8f5e68cdd4cc6fee80ac549\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\f_ham\.gradle\caches\transforms-3\b955ec6827059c5474aa1b59546e30d3\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\f_ham\.gradle\caches\transforms-3\b955ec6827059c5474aa1b59546e30d3\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\f_ham\.gradle\caches\transforms-3\93b5abff8d4a696f8b0628e2d97b89d8\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\f_ham\.gradle\caches\transforms-3\93b5abff8d4a696f8b0628e2d97b89d8\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\f_ham\.gradle\caches\transforms-3\23e2111cf45fdfb26433802eb6137314\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\f_ham\.gradle\caches\transforms-3\23e2111cf45fdfb26433802eb6137314\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\f_ham\.gradle\caches\transforms-3\0096461cfad969bc23c5aa624c11879c\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\f_ham\.gradle\caches\transforms-3\0096461cfad969bc23c5aa624c11879c\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\f_ham\.gradle\caches\transforms-3\fcf90e484b1aa51264e9b53e23a04bcd\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\f_ham\.gradle\caches\transforms-3\fcf90e484b1aa51264e9b53e23a04bcd\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\f_ham\.gradle\caches\transforms-3\1bffb2e2a6bce2a4bc74c4253ddebd21\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\f_ham\.gradle\caches\transforms-3\1bffb2e2a6bce2a4bc74c4253ddebd21\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\f_ham\.gradle\caches\transforms-3\99048728c61cf207bf3e2bfc54cdcecd\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\f_ham\.gradle\caches\transforms-3\99048728c61cf207bf3e2bfc54cdcecd\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\f_ham\.gradle\caches\transforms-3\533ca35e76fc7b7d7f0245ce292cd66e\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\f_ham\.gradle\caches\transforms-3\533ca35e76fc7b7d7f0245ce292cd66e\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\f_ham\.gradle\caches\transforms-3\485df9aa341fba5e49e5f658e35760fd\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\f_ham\.gradle\caches\transforms-3\485df9aa341fba5e49e5f658e35760fd\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.0] C:\Users\f_ham\.gradle\caches\transforms-3\afa59bb9d0133b30ceb4293fb442ecd0\transformed\jetified-activity-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.0] C:\Users\f_ham\.gradle\caches\transforms-3\afa59bb9d0133b30ceb4293fb442ecd0\transformed\jetified-activity-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\f_ham\.gradle\caches\transforms-3\d0b3f7fa4a0895001e815c90926dfe58\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\f_ham\.gradle\caches\transforms-3\d0b3f7fa4a0895001e815c90926dfe58\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\f_ham\.gradle\caches\transforms-3\f1e271b98f006f3ae4e16de57e6f0f19\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\f_ham\.gradle\caches\transforms-3\f1e271b98f006f3ae4e16de57e6f0f19\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.0] C:\Users\f_ham\.gradle\caches\transforms-3\910321fcb583f3692255c11f132f121b\transformed\lifecycle-viewmodel-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.0] C:\Users\f_ham\.gradle\caches\transforms-3\910321fcb583f3692255c11f132f121b\transformed\lifecycle-viewmodel-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.0] C:\Users\f_ham\.gradle\caches\transforms-3\d47e28b80e8f19db68d56078ae6af3a8\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.0] C:\Users\f_ham\.gradle\caches\transforms-3\d47e28b80e8f19db68d56078ae6af3a8\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\f_ham\.gradle\caches\transforms-3\dcbb1dd92765412344d014d9e3e1ee4e\transformed\jetified-core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\f_ham\.gradle\caches\transforms-3\dcbb1dd92765412344d014d9e3e1ee4e\transformed\jetified-core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\f_ham\.gradle\caches\transforms-3\e174114314f36cca8a25927a74242f94\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\f_ham\.gradle\caches\transforms-3\e174114314f36cca8a25927a74242f94\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\f_ham\.gradle\caches\transforms-3\e54e561548c65fa8928b0a5331f40d5f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\f_ham\.gradle\caches\transforms-3\e54e561548c65fa8928b0a5331f40d5f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\f_ham\.gradle\caches\transforms-3\88efdb146fb5d0d1a00f99febf7efe0b\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\f_ham\.gradle\caches\transforms-3\88efdb146fb5d0d1a00f99febf7efe0b\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\f_ham\.gradle\caches\transforms-3\0a023fc8211dd526833fd13ed6c15de3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\f_ham\.gradle\caches\transforms-3\0a023fc8211dd526833fd13ed6c15de3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\f_ham\.gradle\caches\transforms-3\d60bba4ef59b2b320f47e65bcdea3f57\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\f_ham\.gradle\caches\transforms-3\d60bba4ef59b2b320f47e65bcdea3f57\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\f_ham\.gradle\caches\transforms-3\8c18ab4978080bf764bfd1d03beac24a\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\f_ham\.gradle\caches\transforms-3\8c18ab4978080bf764bfd1d03beac24a\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\f_ham\.gradle\caches\transforms-3\88ac84b0b03e4efb8c913799fd276066\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\f_ham\.gradle\caches\transforms-3\88ac84b0b03e4efb8c913799fd276066\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\f_ham\.gradle\caches\transforms-3\1589689a8c202ea9326e57dc942a6912\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\f_ham\.gradle\caches\transforms-3\1589689a8c202ea9326e57dc942a6912\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\f_ham\.gradle\caches\transforms-3\db71e0f4d30cd839f95b3cd614158a19\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\f_ham\.gradle\caches\transforms-3\db71e0f4d30cd839f95b3cd614158a19\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.0] C:\Users\f_ham\.gradle\caches\transforms-3\504e3c426935b8797cd44d78f6fa0620\transformed\lifecycle-runtime-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.0] C:\Users\f_ham\.gradle\caches\transforms-3\504e3c426935b8797cd44d78f6fa0620\transformed\lifecycle-runtime-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\f_ham\.gradle\caches\transforms-3\910181807b3f83e188218eff54671701\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\f_ham\.gradle\caches\transforms-3\910181807b3f83e188218eff54671701\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.0] C:\Users\f_ham\.gradle\caches\transforms-3\f76bb44c4b8af80bef4d205b0e29350e\transformed\lifecycle-livedata-core-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.0] C:\Users\f_ham\.gradle\caches\transforms-3\f76bb44c4b8af80bef4d205b0e29350e\transformed\lifecycle-livedata-core-2.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\f_ham\.gradle\caches\transforms-3\2adb656e6e72d5d4c5dabd3f88540ad1\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\f_ham\.gradle\caches\transforms-3\2adb656e6e72d5d4c5dabd3f88540ad1\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\f_ham\.gradle\caches\transforms-3\299fd85d11d7744cf0d2d04f16db9ab2\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\f_ham\.gradle\caches\transforms-3\299fd85d11d7744cf0d2d04f16db9ab2\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\f_ham\.gradle\caches\transforms-3\acac584622ed1e5b59339e4a050a7778\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\f_ham\.gradle\caches\transforms-3\acac584622ed1e5b59339e4a050a7778\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\f_ham\.gradle\caches\transforms-3\e3bfbcff359db15700f2231acacdf637\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\f_ham\.gradle\caches\transforms-3\e3bfbcff359db15700f2231acacdf637\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\f_ham\.gradle\caches\transforms-3\4cc7316bb94ef5d14c99c120f2ca9125\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\f_ham\.gradle\caches\transforms-3\4cc7316bb94ef5d14c99c120f2ca9125\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\f_ham\.gradle\caches\transforms-3\0f600f34a0e2ef2781a3657b58373a46\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\f_ham\.gradle\caches\transforms-3\0f600f34a0e2ef2781a3657b58373a46\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\f_ham\.gradle\caches\transforms-3\c3b8c166bf630a074ca9fc779e9a130a\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\f_ham\.gradle\caches\transforms-3\c3b8c166bf630a074ca9fc779e9a130a\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\f_ham\.gradle\caches\transforms-3\8a856e686e86b8095264b552cb026e20\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\f_ham\.gradle\caches\transforms-3\8a856e686e86b8095264b552cb026e20\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml
+INJECTED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml
+		INJECTED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml
+		ADDED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml
+		INJECTED from D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml
+queries
+ADDED from [wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:13:5-24:15
+	xmlns:android
+		ADDED from [wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:13:14-72
+intent#action:name:android.intent.action.GET_CONTENT+data:mimeType:image/*
+ADDED from [wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:14:9-18:18
+action#android.intent.action.GET_CONTENT
+ADDED from [wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:15:13-72
+	android:name
+		ADDED from [wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:15:21-69
+data
+ADDED from [wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:17:13-48
+	android:mimeType
+		ADDED from [wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:17:19-45
+intent#action:name:android.intent.action.GET_CONTENT+data:mimeType:video/*
+ADDED from [wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:19:9-23:18
+uses-feature#android.hardware.camera.autofocus
+ADDED from [wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:26:5-28:35
+	android:required
+		ADDED from [wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:28:9-32
+	android:name
+		ADDED from [wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:27:9-57
+uses-feature#android.hardware.camera
+ADDED from [wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:29:5-31:35
+	android:required
+		ADDED from [wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:31:9-32
+	android:name
+		ADDED from [wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:30:9-47
+uses-permission#android.permission.CAMERA
+ADDED from [wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:34:5-65
+	android:name
+		ADDED from [wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:34:22-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:35:5-79
+	android:name
+		ADDED from [wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:35:22-76
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\f_ham\.gradle\caches\transforms-3\e54e561548c65fa8928b0a5331f40d5f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\f_ham\.gradle\caches\transforms-3\db71e0f4d30cd839f95b3cd614158a19\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\f_ham\.gradle\caches\transforms-3\db71e0f4d30cd839f95b3cd614158a19\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\f_ham\.gradle\caches\transforms-3\acac584622ed1e5b59339e4a050a7778\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\f_ham\.gradle\caches\transforms-3\acac584622ed1e5b59339e4a050a7778\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\f_ham\.gradle\caches\transforms-3\e54e561548c65fa8928b0a5331f40d5f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\f_ham\.gradle\caches\transforms-3\e54e561548c65fa8928b0a5331f40d5f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\f_ham\.gradle\caches\transforms-3\e54e561548c65fa8928b0a5331f40d5f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\f_ham\.gradle\caches\transforms-3\e54e561548c65fa8928b0a5331f40d5f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\f_ham\.gradle\caches\transforms-3\e54e561548c65fa8928b0a5331f40d5f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\f_ham\.gradle\caches\transforms-3\e54e561548c65fa8928b0a5331f40d5f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\f_ham\.gradle\caches\transforms-3\e54e561548c65fa8928b0a5331f40d5f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\f_ham\.gradle\caches\transforms-3\db71e0f4d30cd839f95b3cd614158a19\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\f_ham\.gradle\caches\transforms-3\db71e0f4d30cd839f95b3cd614158a19\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\f_ham\.gradle\caches\transforms-3\db71e0f4d30cd839f95b3cd614158a19\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78

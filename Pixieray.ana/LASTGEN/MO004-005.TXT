@@ -1,0 +1,3 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+Activities		TAR	153	nouvelle taille enregistrement : 153
+Activities	designation	CNW	Chaîne unicode$Chaîne	la rubrique designation a pour nouveau type Chaîne unicode

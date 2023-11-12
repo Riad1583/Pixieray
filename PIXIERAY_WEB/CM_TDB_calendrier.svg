@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Calque_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="56px" height="56px"
+	 viewBox="0 0 56 56" enable-background="new 0 0 56 56" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  x="-0.5" y="0.5" width="56" height="56" bottomLeftOrigin="true"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<circle fill="#FFB300" cx="18.927" cy="36.394" r="6"/>
+<g>
+	<path d="M50.232,4.537h-3.76V0H44.01v4.537H11.992V0H9.528v4.537H5.769C2.588,4.537,0,7.125,0,10.306v39.926
+		C0,53.413,2.588,56,5.769,56h44.463C53.413,56,56,53.413,56,50.232V10.306C56,7.125,53.413,4.537,50.232,4.537z M53.537,50.232
+		c0,1.822-1.482,3.306-3.305,3.306H5.769c-1.823,0-3.306-1.483-3.306-3.306V19.25h51.074V50.232z M53.538,16.788H2.463v-6.481
+		C2.463,8.483,3.946,7,5.769,7h3.759v4.537h2.464V7H44.01v4.537h2.463V7h3.76c1.822,0,3.307,1.483,3.307,3.306L53.538,16.788
+		L53.538,16.788z"/>
+	<rect x="8.621" y="26.088" width="2.463" height="2.463"/>
+	<rect x="17.695" y="26.088" width="2.463" height="2.463"/>
+	<rect x="26.769" y="26.088" width="2.463" height="2.463"/>
+	<rect x="35.842" y="26.088" width="2.463" height="2.463"/>
+	<rect x="44.916" y="26.088" width="2.463" height="2.463"/>
+	<rect x="8.621" y="35.162" width="2.463" height="2.463"/>
+	<rect x="17.695" y="35.162" width="2.463" height="2.463"/>
+	<rect x="26.769" y="35.162" width="2.463" height="2.463"/>
+	<rect x="35.842" y="35.162" width="2.463" height="2.463"/>
+	<rect x="8.621" y="44.236" width="2.463" height="2.463"/>
+	<rect x="17.695" y="44.236" width="2.463" height="2.463"/>
+	<rect x="26.769" y="44.236" width="2.463" height="2.463"/>
+	<rect x="35.842" y="44.236" width="2.463" height="2.463"/>
+	<rect x="44.916" y="35.162" width="2.463" height="2.463"/>
+</g>
+</svg>

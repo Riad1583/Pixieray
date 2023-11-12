@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen"
+    name=":"
+    type="APP"
+    maven=":gen:"
+    gradle="7.4.1"
+    buildFolder="build"
+    bootClassPath="C:\PC SOFT\WINDEV Mobile 28\Personnel\Android\AndroidSDK\platforms\android-33\android.jar;C:\PC SOFT\WINDEV Mobile 28\Personnel\Android\AndroidSDK\platforms\android-33\optional\org.apache.http.legacy.jar;C:\PC SOFT\WINDEV Mobile 28\Personnel\Android\AndroidSDK\build-tools\33.0.1\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-33"
+    neverShrinking="true">
+  <lintOptions
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

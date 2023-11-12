@@ -1,0 +1,7 @@
+#Sun Nov 12 05:16:23 CET 2023
+base.1=D\:\\projets\\1 - Projets Clients\\PIXIERRAY\\PIXIERAY\\Android\\gen\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes2.dex
+path.1=classes2.dex
+base.0=D\:\\projets\\1 - Projets Clients\\PIXIERRAY\\PIXIERAY\\Android\\gen\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

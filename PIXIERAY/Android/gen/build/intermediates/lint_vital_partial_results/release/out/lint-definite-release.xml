@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 7.4.1" type="incidents">
+
+    <incident
+        id="Proguard"
+        severity="fatal"
+        message="Obsolete ProGuard file; use `-keepclasseswithmembers` instead of `-keepclasseswithmembernames`">
+        <location
+            file="${:*projectDir}/prg.dat"
+            line="35"
+            column="1"
+            startOffset="1060"
+            endLine="35"
+            endColumn="1"
+            endOffset="1060"/>
+    </incident>
+
+</incidents>

@@ -1,0 +1,4 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+Employee		TAR	930	nouvelle taille enregistrement : 930
+Employee	Email	RUB+		Email est une nouvelle rubrique
+Employee	PasseWord	RUB+		PasseWord est une nouvelle rubrique

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+  <g id="Groupe_7" data-name="Groupe 7" transform="translate(-76 -696)">
+    <g id="Ellipse_6" data-name="Ellipse 6" transform="translate(76 696)" fill="#060606" stroke="#060606" stroke-width="1">
+      <circle cx="28" cy="28" r="28" stroke="none"/>
+      <circle cx="28" cy="28" r="27.5" fill="none"/>
+    </g>
+    <path id="icons8_Google" d="M17,6a10.485,10.485,0,1,0,0,20.971c8.746,0,10.718-8.12,9.9-12.232H17v3.495h6.761a6.992,6.992,0,1,1-2.178-7.017l2.482-2.482A10.45,10.45,0,0,0,17,6Z" transform="translate(87.207 707.515)" fill="#fff"/>
+  </g>
+</svg>

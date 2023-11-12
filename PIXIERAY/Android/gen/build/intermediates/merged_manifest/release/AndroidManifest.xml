@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.innovgeek.pixieray"
+    android:installLocation="auto"
+    android:versionCode="42"
+    android:versionName="0.0.43.0" >
+
+    <uses-sdk
+        android:minSdkVersion="23"
+        android:targetSdkVersion="33" />
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_MEDIA_VIDEO" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+
+    <queries xmlns:android="http://schemas.android.com/apk/res/android" >
+        <intent>
+            <action android:name="android.intent.action.GET_CONTENT" />
+
+            <data android:mimeType="image/*" />
+        </intent>
+        <intent>
+            <action android:name="android.intent.action.GET_CONTENT" />
+
+            <data android:mimeType="video/*" />
+        </intent>
+    </queries>
+
+    <uses-feature
+        android:name="android.hardware.camera.autofocus"
+        android:required="true" />
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="true" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:name="fr.pcsoft.wdjava.core.application.WDAndroidApp"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:extractNativeLibs="true"
+        android:icon="@drawable/i_c_o_n_e________2"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:requestLegacyExternalStorage="true"
+        android:resizeableActivity="true"
+        android:usesCleartextTraffic="true" >
+        <activity
+            android:name="com.innovgeek.pixieray.wdgen.GWDPPIXIERAY$WDLanceur"
+            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar.Translucent" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.innovgeek.pixieray.wdgen.GWDFFEN_login$WDActiviteFenetre"
+            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+            android:hardwareAccelerated="false"
+            android:screenOrientation="sensorPortrait"
+            android:theme="@android:style/Theme" />
+        <activity
+            android:name="com.innovgeek.pixieray.wdgen.GWDFFEN_splash1$WDActiviteFenetre"
+            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+            android:hardwareAccelerated="false"
+            android:screenOrientation="sensorPortrait"
+            android:theme="@android:style/Theme" />
+        <activity
+            android:name="com.innovgeek.pixieray.wdgen.GWDFFEN_home$WDActiviteFenetre"
+            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+            android:hardwareAccelerated="false"
+            android:screenOrientation="sensorPortrait"
+            android:theme="@android:style/Theme" />
+        <activity
+            android:name="com.innovgeek.pixieray.wdgen.GWDFFEN_signup$WDActiviteFenetre"
+            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+            android:hardwareAccelerated="false"
+            android:screenOrientation="sensorPortrait"
+            android:theme="@android:style/Theme" />
+        <activity
+            android:name="com.innovgeek.pixieray.wdgen.GWDFFEN_setup$WDActiviteFenetre"
+            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+            android:hardwareAccelerated="false"
+            android:screenOrientation="sensorPortrait"
+            android:theme="@android:style/Theme" />
+        <activity
+            android:name="com.innovgeek.pixieray.wdgen.GWDFFEN_pop_on$WDActiviteFenetre"
+            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+            android:hardwareAccelerated="false"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name="com.innovgeek.pixieray.wdgen.GWDFFEN_progress$WDActiviteFenetre"
+            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+            android:hardwareAccelerated="false"
+            android:screenOrientation="sensorPortrait"
+            android:theme="@android:style/Theme" />
+        <activity
+            android:name="com.innovgeek.pixieray.wdgen.GWDFFEN_splash$WDActiviteFenetre"
+            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+            android:hardwareAccelerated="false"
+            android:screenOrientation="sensorPortrait"
+            android:theme="@android:style/Theme" />
+        <activity
+            android:name="com.innovgeek.pixieray.wdgen.GWDFFEN_dash$WDActiviteFenetre"
+            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+            android:hardwareAccelerated="false"
+            android:screenOrientation="sensorPortrait"
+            android:theme="@android:style/Theme" />
+
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false" />
+
+        <activity
+            android:name="fr.pcsoft.wdjava.ui.activite.WDActivite$BlankActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar.Translucent" />
+        <activity
+            android:name="fr.pcsoft.wdjava.core.erreur.report.WDErrorReportActivity"
+            android:theme="@android:style/Theme.DeviceDefault.Light" />
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="com.innovgeek.pixieray.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_paths" />
+        </provider>
+
+        <receiver
+            android:name="fr.pcsoft.wdjava.core.utils.WDAppUtils$APKInstallBroadcastReceiver"
+            android:exported="false" />
+
+        <service android:name="fr.pcsoft.wdjava.core.service.WDServiceLocal" />
+
+        <meta-data
+            android:name="fr.pcsoft.first_window_name"
+            android:value="FEN_splash" />
+        <meta-data
+            android:name="fr.pcsoft.splash_orientation_phone"
+            android:value="1" />
+        <meta-data
+            android:name="fr.pcsoft.splash_orientation_tablet"
+            android:value="1" />
+
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="com.innovgeek.pixieray.androidx-startup"
+            android:exported="false" >
+            <meta-data
+                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+                android:value="androidx.startup" />
+        </provider>
+    </application>
+
+</manifest>

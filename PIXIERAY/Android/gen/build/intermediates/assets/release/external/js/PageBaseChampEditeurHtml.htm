@@ -1,0 +1,83 @@
+﻿<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>wdhtmledit</title>
+    <style>
+        /* contournement pour ne pas avoir un gros fond bleu si tout est sélectionné */
+       ::selection { background: transparent;}
+        /* zone d'edition en plein page */
+        #zoneEdition { top:0; left: 0; width:100%; height: 100%; position:absolute; }
+        /* pas de marges pour la page */
+        body { border:0;margin:0;padding:0;height:100%;width:100%;overflow:hidden; }
+    </style>
+    <style class="wdEditeurHtmlStyleCommun">
+        ul,ol {
+            padding-inline-start: 0;
+            list-style-position: inside;
+        }
+        li {
+            margin-left: 40px;
+        }
+        html {
+            font-size: 16px;
+            font-family: Arial;
+            padding: 0.5rem;
+            width: 100%;
+            height: 100%;
+            box-sizing: border-box;
+        }
+        /*CODE_CSS*/
+    </style>
+</head>
+<body scroll="no">
+    <!-- conteneur de la zone de saisie -->
+    <iframe id="zoneEdition" sandbox="$SANDBOX_MODE$" frameborder="0" src="about:blank"></iframe>
+    <!-- Init du champ de saisie HTML -->
+    <script>
+        var bEnModeWeb = false;
+        // Options de la saisie HTML : édition des images, des tableaux etc.
+        var oOptions = {};
+        // Code css commun
+        oOptions.domStyleCommun = document.head.getElementsByClassName("wdEditeurHtmlStyleCommun")[0].cloneNode(true);
+        document.head.getElementsByClassName("wdEditeurHtmlStyleCommun")[0].remove();
+        //Framework JS : injecté par la OBJ dans le html effectif envoyé a chromium
+        try {
+            $CODE_COMMUN$
+            // Options personnalisables
+            oOptions.bGestionImages = $GESTION_IMAGES$;
+            oOptions.bGestionTables = $GESTION_TABLES$;
+            oOptions.bGestionLiens  = false;// $GESTION_LIENS$;
+            oOptions.bEnModeMail    = $GESTION_MAIL$;
+            //TODO oOptions.oTraduction = $GESTION_TRADOC$;
+        }
+        catch (e) {
+            console.log(e);
+            bEnModeWeb = true;
+            oOptions.bGestionImages = true;
+            oOptions.bGestionTables = true;
+            oOptions.bGestionLiens = false;
+            // Chargement des dépendances pour le mode test web
+            var domScriptCourant = document.all[document.all.length-1];
+            ["./WDUtil.js","./WDSaisieAPI.js","./WWConstante5.js","WDSaisieAPI_wlexecute.js"
+            ,"../../WDEditeurImage.js"
+            ,"../../Autres/wdhtml_exec/debug/jquery-3.js"].forEach( sURL => {
+                var script = document.createElement('script'); script.src = sURL;
+                domScriptCourant.parentElement.insertBefore(script,domScriptCourant);
+            });
+            oOptions.domStyleCommun = document.createElement("link");
+            oOptions.domStyleCommun.rel="stylesheet";
+            oOptions.domStyleCommun.href="../../Autres/wdhtml_exec/debug/static.css";
+            // pour debug des callbacks WL
+            var WL = {
+                Execute : console.log
+            };
+        }
+        //Init du champ de saisie HTML
+        window.addEventListener('load', () =>
+            new WDSaisieAPI(bEnModeWeb,document.getElementById("zoneEdition"),oOptions)
+        );
+    </script>
+</body>
+</html>

@@ -1,0 +1,329 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.innovgeek.pixieray"
+4    android:installLocation="auto"
+5    android:versionCode="42"
+6    android:versionName="0.0.43.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="23"
+9-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml
+10        android:targetSdkVersion="33" />
+10-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml
+11
+12    <supports-screens
+12-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4775-4934
+13        android:anyDensity="true"
+13-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4907-4932
+14        android:largeScreens="true"
+14-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4850-4877
+15        android:normalScreens="true"
+15-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4821-4849
+16        android:smallScreens="true"
+16-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4793-4820
+17        android:xlargeScreens="true" />
+17-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4878-4906
+18
+19    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+19-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4934-5009
+19-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4951-5007
+20    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+20-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:5009-5083
+20-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:5026-5081
+21    <uses-permission android:name="android.permission.READ_MEDIA_VIDEO" />
+21-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:5083-5152
+21-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:5100-5150
+22    <uses-permission android:name="android.permission.INTERNET" />
+22-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:5152-5213
+22-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:5169-5211
+23    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+23-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:5213-5283
+23-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:5230-5281
+24
+25    <queries xmlns:android="http://schemas.android.com/apk/res/android" >
+25-->[wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:13:5-24:15
+25-->[wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:13:14-72
+26        <intent>
+26-->[wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:14:9-18:18
+27            <action android:name="android.intent.action.GET_CONTENT" />
+27-->[wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:15:13-72
+27-->[wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:15:21-69
+28
+29            <data android:mimeType="image/*" />
+29-->[wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:17:13-48
+29-->[wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:17:19-45
+30        </intent>
+31        <intent>
+31-->[wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:19:9-23:18
+32            <action android:name="android.intent.action.GET_CONTENT" />
+32-->[wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:15:13-72
+32-->[wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:15:21-69
+33
+34            <data android:mimeType="video/*" />
+34-->[wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:17:13-48
+34-->[wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:17:19-45
+35        </intent>
+36    </queries>
+37
+38    <uses-feature
+38-->[wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:26:5-28:35
+39        android:name="android.hardware.camera.autofocus"
+39-->[wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:27:9-57
+40        android:required="true" />
+40-->[wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:28:9-32
+41    <uses-feature
+41-->[wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:29:5-31:35
+42        android:name="android.hardware.camera"
+42-->[wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:30:9-47
+43        android:required="true" />
+43-->[wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:31:9-32
+44
+45    <uses-permission android:name="android.permission.CAMERA" />
+45-->[wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:34:5-65
+45-->[wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:34:22-62
+46    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+46-->[wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:35:5-79
+46-->[wd280android_wdl.aar] C:\Users\f_ham\.gradle\caches\transforms-3\544e7a29cd833cb8c7a43d465e244b64\transformed\jetified-wd280android_wdl\AndroidManifest.xml:35:22-76
+47
+48    <application
+48-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:237-4775
+49        android:name="fr.pcsoft.wdjava.core.application.WDAndroidApp"
+49-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:250-311
+50        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+50-->[androidx.core:core:1.8.0] C:\Users\f_ham\.gradle\caches\transforms-3\8c18ab4978080bf764bfd1d03beac24a\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+51        android:extractNativeLibs="true"
+51-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:529-561
+52        android:icon="@drawable/i_c_o_n_e________2"
+52-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:345-388
+53        android:label="@string/app_name"
+53-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:312-344
+54        android:largeHeap="true"
+54-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:389-413
+55        android:requestLegacyExternalStorage="true"
+55-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:485-528
+56        android:resizeableActivity="true"
+56-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:415-448
+57        android:usesCleartextTraffic="true" >
+57-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:449-484
+58        <activity
+58-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:562-998
+59            android:name="com.innovgeek.pixieray.wdgen.GWDPPIXIERAY$WDLanceur"
+59-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:572-616
+60            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout"
+60-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:719-821
+61            android:exported="true"
+61-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:822-845
+62            android:label="@string/app_name"
+62-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:617-649
+63            android:theme="@style/Theme.AppCompat.Light.NoActionBar.Translucent" >
+63-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:650-718
+64            <intent-filter>
+64-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:846-987
+65                <action android:name="android.intent.action.MAIN" />
+65-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:861-912
+65-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:869-910
+66
+67                <category android:name="android.intent.category.LAUNCHER" />
+67-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:912-971
+67-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:922-969
+68            </intent-filter>
+69        </activity>
+70        <activity
+70-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:998-1289
+71            android:name="com.innovgeek.pixieray.wdgen.GWDFFEN_login$WDActiviteFenetre"
+71-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1008-1061
+72            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+72-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1062-1171
+73            android:hardwareAccelerated="false"
+73-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1252-1287
+74            android:screenOrientation="sensorPortrait"
+74-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1209-1251
+75            android:theme="@android:style/Theme" />
+75-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1172-1208
+76        <activity
+76-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1289-1582
+77            android:name="com.innovgeek.pixieray.wdgen.GWDFFEN_splash1$WDActiviteFenetre"
+77-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1299-1354
+78            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+78-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1355-1464
+79            android:hardwareAccelerated="false"
+79-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1545-1580
+80            android:screenOrientation="sensorPortrait"
+80-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1502-1544
+81            android:theme="@android:style/Theme" />
+81-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1465-1501
+82        <activity
+82-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1582-1872
+83            android:name="com.innovgeek.pixieray.wdgen.GWDFFEN_home$WDActiviteFenetre"
+83-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1592-1644
+84            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+84-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1645-1754
+85            android:hardwareAccelerated="false"
+85-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1835-1870
+86            android:screenOrientation="sensorPortrait"
+86-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1792-1834
+87            android:theme="@android:style/Theme" />
+87-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1755-1791
+88        <activity
+88-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1872-2164
+89            android:name="com.innovgeek.pixieray.wdgen.GWDFFEN_signup$WDActiviteFenetre"
+89-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1882-1936
+90            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+90-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:1937-2046
+91            android:hardwareAccelerated="false"
+91-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:2127-2162
+92            android:screenOrientation="sensorPortrait"
+92-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:2084-2126
+93            android:theme="@android:style/Theme" />
+93-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:2047-2083
+94        <activity
+94-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:2164-2455
+95            android:name="com.innovgeek.pixieray.wdgen.GWDFFEN_setup$WDActiviteFenetre"
+95-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:2174-2227
+96            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+96-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:2228-2337
+97            android:hardwareAccelerated="false"
+97-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:2418-2453
+98            android:screenOrientation="sensorPortrait"
+98-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:2375-2417
+99            android:theme="@android:style/Theme" />
+99-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:2338-2374
+100        <activity
+100-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:2455-2711
+101            android:name="com.innovgeek.pixieray.wdgen.GWDFFEN_pop_on$WDActiviteFenetre"
+101-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:2465-2519
+102            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+102-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:2520-2629
+103            android:hardwareAccelerated="false"
+103-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:2674-2709
+104            android:theme="@android:style/Theme.Dialog" />
+104-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:2630-2673
+105        <activity
+105-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:2711-3005
+106            android:name="com.innovgeek.pixieray.wdgen.GWDFFEN_progress$WDActiviteFenetre"
+106-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:2721-2777
+107            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+107-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:2778-2887
+108            android:hardwareAccelerated="false"
+108-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:2968-3003
+109            android:screenOrientation="sensorPortrait"
+109-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:2925-2967
+110            android:theme="@android:style/Theme" />
+110-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:2888-2924
+111        <activity
+111-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3005-3297
+112            android:name="com.innovgeek.pixieray.wdgen.GWDFFEN_splash$WDActiviteFenetre"
+112-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3015-3069
+113            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+113-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3070-3179
+114            android:hardwareAccelerated="false"
+114-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3260-3295
+115            android:screenOrientation="sensorPortrait"
+115-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3217-3259
+116            android:theme="@android:style/Theme" />
+116-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3180-3216
+117        <activity
+117-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3297-3587
+118            android:name="com.innovgeek.pixieray.wdgen.GWDFFEN_dash$WDActiviteFenetre"
+118-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3307-3359
+119            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|smallestScreenSize|screenLayout|uiMode"
+119-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3360-3469
+120            android:hardwareAccelerated="false"
+120-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3550-3585
+121            android:screenOrientation="sensorPortrait"
+121-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3507-3549
+122            android:theme="@android:style/Theme" />
+122-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3470-3506
+123
+124        <uses-library
+124-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3587-3665
+125            android:name="org.apache.http.legacy"
+125-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3601-3638
+126            android:required="false" />
+126-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3639-3663
+127
+128        <activity
+128-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3665-3835
+129            android:name="fr.pcsoft.wdjava.ui.activite.WDActivite$BlankActivity"
+129-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3675-3743
+130            android:theme="@style/Theme.AppCompat.Light.NoActionBar.Translucent" />
+130-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3744-3812
+131        <activity
+131-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3835-3997
+132            android:name="fr.pcsoft.wdjava.core.erreur.report.WDErrorReportActivity"
+132-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3845-3917
+133            android:theme="@android:style/Theme.DeviceDefault.Light" />
+133-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3918-3974
+134
+135        <provider
+135-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:3997-4309
+136            android:name="androidx.core.content.FileProvider"
+136-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4007-4056
+137            android:authorities="com.innovgeek.pixieray.fileprovider"
+137-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4057-4114
+138            android:exported="false"
+138-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4115-4139
+139            android:grantUriPermissions="true" >
+139-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4140-4174
+140            <meta-data
+140-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4196-4298
+141                android:name="android.support.FILE_PROVIDER_PATHS"
+141-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4207-4257
+142                android:resource="@xml/provider_paths" />
+142-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4258-4296
+143        </provider>
+144
+145        <receiver
+145-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4309-4448
+146            android:name="fr.pcsoft.wdjava.core.utils.WDAppUtils$APKInstallBroadcastReceiver"
+146-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4319-4400
+147            android:exported="false" />
+147-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4401-4425
+148
+149        <service android:name="fr.pcsoft.wdjava.core.service.WDServiceLocal" />
+149-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4448-4518
+149-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4457-4516
+150
+151        <meta-data
+151-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4518-4600
+152            android:name="fr.pcsoft.first_window_name"
+152-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4529-4571
+153            android:value="FEN_splash" />
+153-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4572-4598
+154        <meta-data
+154-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4600-4680
+155            android:name="fr.pcsoft.splash_orientation_phone"
+155-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4611-4660
+156            android:value="1" />
+156-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4661-4678
+157        <meta-data
+157-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4680-4761
+158            android:name="fr.pcsoft.splash_orientation_tablet"
+158-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4691-4741
+159            android:value="1" />
+159-->D:\projets\1 - Projets Clients\PIXIERRAY\PIXIERAY\Android\gen\AndroidManifest.xml:2:4742-4759
+160
+161        <provider
+161-->[androidx.emoji2:emoji2:1.2.0] C:\Users\f_ham\.gradle\caches\transforms-3\e54e561548c65fa8928b0a5331f40d5f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+162            android:name="androidx.startup.InitializationProvider"
+162-->[androidx.emoji2:emoji2:1.2.0] C:\Users\f_ham\.gradle\caches\transforms-3\e54e561548c65fa8928b0a5331f40d5f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+163            android:authorities="com.innovgeek.pixieray.androidx-startup"
+163-->[androidx.emoji2:emoji2:1.2.0] C:\Users\f_ham\.gradle\caches\transforms-3\e54e561548c65fa8928b0a5331f40d5f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+164            android:exported="false" >
+164-->[androidx.emoji2:emoji2:1.2.0] C:\Users\f_ham\.gradle\caches\transforms-3\e54e561548c65fa8928b0a5331f40d5f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+165            <meta-data
+165-->[androidx.emoji2:emoji2:1.2.0] C:\Users\f_ham\.gradle\caches\transforms-3\e54e561548c65fa8928b0a5331f40d5f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+166                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+166-->[androidx.emoji2:emoji2:1.2.0] C:\Users\f_ham\.gradle\caches\transforms-3\e54e561548c65fa8928b0a5331f40d5f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+167                android:value="androidx.startup" />
+167-->[androidx.emoji2:emoji2:1.2.0] C:\Users\f_ham\.gradle\caches\transforms-3\e54e561548c65fa8928b0a5331f40d5f\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+168            <meta-data
+168-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\f_ham\.gradle\caches\transforms-3\db71e0f4d30cd839f95b3cd614158a19\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+169                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+169-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\f_ham\.gradle\caches\transforms-3\db71e0f4d30cd839f95b3cd614158a19\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+170                android:value="androidx.startup" />
+170-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\f_ham\.gradle\caches\transforms-3\db71e0f4d30cd839f95b3cd614158a19\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+171        </provider>
+172    </application>
+173
+174</manifest>

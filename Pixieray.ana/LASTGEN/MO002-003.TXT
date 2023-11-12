@@ -1,0 +1,3 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+Glasses		TAR	144	nouvelle taille enregistrement : 144
+Glasses	AffectationDate	RUB+		AffectationDate est une nouvelle rubrique

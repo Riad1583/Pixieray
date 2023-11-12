@@ -1,0 +1,28 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Glasses		NFI		nouveau fichier
+Eyewear_models		NFI		nouveau fichier
+Employee		NFI		nouveau fichier
+CollectedData		NFI		nouveau fichier
+StaticPeriod		NFI		nouveau fichier
+MedicalInformation		NFI		nouveau fichier
+Activities		NFI		nouveau fichier
+User		NFI		nouveau fichier
+segments		NFI		nouveau fichier
+StaticPeriod_Activities		NFI		nouveau fichier
+CollectedDataTraining		NFI		nouveau fichier
+PeriodTraining		NFI		nouveau fichier
+Order		NFI		nouveau fichier
+Contrainte_Eyewear_models_Glasses		NWL	Eyewear_models (IDEyewear_models) et Glasses (IDEyewear_models)	Nouvelle liaison entre les fichiers Eyewear_models (IDEyewear_models) et Glasses (IDEyewear_models)
+Contrainte_Employee_Glasses		NWL	Employee (IDEmployee) et Glasses (IDEmployee)	Nouvelle liaison entre les fichiers Employee (IDEmployee) et Glasses (IDEmployee)
+Contrainte_Glasses_CollectedData		NWL	Glasses (IDGlasses) et CollectedData (IDGlasses)	Nouvelle liaison entre les fichiers Glasses (IDGlasses) et CollectedData (IDGlasses)
+Contrainte_segments_CollectedData		NWL	segments (IDsegments) et CollectedData (IDsegments)	Nouvelle liaison entre les fichiers segments (IDsegments) et CollectedData (IDsegments)
+Contrainte_Employee_MedicalInformation		NWL	Employee (IDEmployee) et MedicalInformation (IDEmployee)	Nouvelle liaison entre les fichiers Employee (IDEmployee) et MedicalInformation (IDEmployee)
+Contrainte_Activities_segments		NWL	Activities (IDActivities) et segments (IDActivities)	Nouvelle liaison entre les fichiers Activities (IDActivities) et segments (IDActivities)
+Contrainte_StaticPeriod_segments		NWL	StaticPeriod (IDStaticPeriod) et segments (IDStaticPeriod)	Nouvelle liaison entre les fichiers StaticPeriod (IDStaticPeriod) et segments (IDStaticPeriod)
+Contrainte_StaticPeriod_Activities		NWL	StaticPeriod (IDStaticPeriod) et StaticPeriod_Activities (IDStaticPeriod)	Nouvelle liaison entre les fichiers StaticPeriod (IDStaticPeriod) et StaticPeriod_Activities (IDStaticPeriod)
+Contrainte_Activities_StaticPeriod		NWL	Activities (IDActivities) et StaticPeriod_Activities (IDActivities)	Nouvelle liaison entre les fichiers Activities (IDActivities) et StaticPeriod_Activities (IDActivities)
+Contrainte_Activities_PeriodTraining		NWL	Activities (IDActivities) et PeriodTraining (IDActivities)	Nouvelle liaison entre les fichiers Activities (IDActivities) et PeriodTraining (IDActivities)
+Contrainte_PeriodTraining_CollectedDataTraining		NWL	PeriodTraining (IDStaticPeriod) et CollectedDataTraining (IDStaticPeriod)	Nouvelle liaison entre les fichiers PeriodTraining (IDStaticPeriod) et CollectedDataTraining (IDStaticPeriod)
+Contrainte_Employee_PeriodTraining		NWL	Employee (IDEmployee) et PeriodTraining (IDEmployee)	Nouvelle liaison entre les fichiers Employee (IDEmployee) et PeriodTraining (IDEmployee)
+Contrainte_User_Employee		NWL	User (IDUser) et Employee (IDUserAddedBy)	Nouvelle liaison entre les fichiers User (IDUser) et Employee (IDUserAddedBy)
+Contrainte_User_Activities		NWL	User (IDUser) et Activities (IDUserAddedBy)	Nouvelle liaison entre les fichiers User (IDUser) et Activities (IDUserAddedBy)

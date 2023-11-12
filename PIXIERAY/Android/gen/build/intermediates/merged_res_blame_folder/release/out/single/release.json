@@ -1,0 +1,1990 @@
+[
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_cbox_7_selectorunselected_normal.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_cbox_7_selectorunselected_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_groupe_1_23.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\groupe_1_23.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_edt_10_np3_8_8_8_8_selectorhovered.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_edt_10_np3_8_8_8_8_selectorhovered.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_break_pict_17_selectorenroule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_break_pict_17_selectorenroule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_cbox_7_selectorselected_pressed.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_cbox_7_selectorselected_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_cbox_9_selectorunselected_focus.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_cbox_9_selectorunselected_focus.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_groupe_14_14.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\groupe_14_14.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_icons8_arrow_24.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\icons8_arrow_24.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_icons8_checkmark_2_18.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\icons8_checkmark_2_18.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_edt_13_np3_8_8_8_8_selectordisabled.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_edt_13_np3_8_8_8_8_selectordisabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_cbox_12_selectorunselected_pressed.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_cbox_12_selectorunselected_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_cbox_12_selectorunselected_normal.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_cbox_12_selectorunselected_normal.png"
+    },
+    {
+        "merged": "com.innovgeek.pixieray-merged_res-32:/raw_groupe_15_23.svg.flat",
+        "source": "com.innovgeek.pixieray-gen-33:/raw/groupe_15_23.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable_logo_pixieray_light_3x_1.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable\\logo_pixieray_light_3x_1.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_edt_10_np3_8_8_8_8_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_edt_10_np3_8_8_8_8_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable_df_4.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable\\df_4.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_groupe_10_3.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\groupe_10_3.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_edt_8_np3_8_8_8_8_selectornormal.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_edt_8_np3_8_8_8_8_selectornormal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_edt_8_np3_8_8_8_8_selectorfocus.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_edt_8_np3_8_8_8_8_selectorfocus.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_cbox_12_selectorselected_disabled.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_cbox_12_selectorselected_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_edt_8_np3_8_8_8_8_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_edt_8_np3_8_8_8_8_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_img_chargement_01_10.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\img_chargement_01_10.svg"
+    },
+    {
+        "merged": "com.innovgeek.pixieray-merged_res-32:/drawable_df_8.png.flat",
+        "source": "com.innovgeek.pixieray-gen-33:/drawable/df_8.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_edt_10_np3_8_8_8_8_selectornormal.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_edt_10_np3_8_8_8_8_selectornormal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_i_c_o_n_e________0.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\i_c_o_n_e________0.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_cbox_10_selectorselected_focus.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_cbox_10_selectorselected_focus.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_cbox_9_selectorselected_disabled.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_cbox_9_selectorselected_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_cbox_7_selectorunselected_pressed.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_cbox_7_selectorunselected_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_break_pict_17_selectorderoule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_break_pict_17_selectorderoule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_cbox_9_selectorselected_normal.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_cbox_9_selectorselected_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_cbox_7_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_cbox_7_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_cbox_7_selectorselected_pressed.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_cbox_7_selectorselected_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_options_compilation_4a7adc13f4164f83b2bcd6bb086496f8.properties.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\options_compilation_4a7adc13f4164f83b2bcd6bb086496f8.properties"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_cbox_7_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_cbox_7_selector.xml"
+    },
+    {
+        "merged": "com.innovgeek.pixieray-merged_res-32:/drawable_logo_pixieray_light_3x_7.png.flat",
+        "source": "com.innovgeek.pixieray-gen-33:/drawable/logo_pixieray_light_3x_7.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_cbox_9_selectorselected_pressed.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_cbox_9_selectorselected_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_pixieray_exec.wddexec.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\pixieray_exec.wddexec"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_cbox_12_selectorselected_pressed.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_cbox_12_selectorselected_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_cbox_10_selectorunselected_normal.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_cbox_10_selectorunselected_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable_logo_pixieray_light_3x_3.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable\\logo_pixieray_light_3x_3.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_edt_10_np3_8_8_8_8_selectorfocus.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_edt_10_np3_8_8_8_8_selectorfocus.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_groupe_1_25.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\groupe_1_25.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_cbox_10_selectorselected_focus.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_cbox_10_selectorselected_focus.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_cbox_9_selectorunselected_normal.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_cbox_9_selectorunselected_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_cbox_9_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_cbox_9_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_edt_8_np3_8_8_8_8_selectordisabled.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_edt_8_np3_8_8_8_8_selectordisabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_cbox_10_selectorunselected_disabled.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_cbox_10_selectorunselected_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_cbox_10_selectorunselected_normal.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_cbox_10_selectorunselected_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_break_pict_19_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_break_pict_19_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_edt_10_np3_8_8_8_8_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_edt_10_np3_8_8_8_8_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable_groupe_17_17.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable\\groupe_17_17.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_break_pict_17_selectorderoule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_break_pict_17_selectorderoule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_edt_8_np3_8_8_8_8_selectordisabled.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_edt_8_np3_8_8_8_8_selectordisabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_groupe_15_21.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\groupe_15_21.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_edt_11_np3_8_8_8_8_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_edt_11_np3_8_8_8_8_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_yuyuyuyu_22.mp4.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\yuyuyuyu_22.mp4"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_cbox_12_selectorselected_normal.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_cbox_12_selectorselected_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_break_pict_4_selectorenroule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_break_pict_4_selectorenroule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_break_pict_17_selectorenroule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_break_pict_17_selectorenroule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_cbox_9_selectorselected_pressed.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_cbox_9_selectorselected_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_break_pict_17_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_break_pict_17_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_cbox_10_selectorselected_disabled.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_cbox_10_selectorselected_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_cbox_9_selectorselected_focus.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_cbox_9_selectorselected_focus.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_break_pict_14_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_break_pict_14_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_groupe_10_5.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\groupe_10_5.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_groupe_14_12.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\groupe_14_12.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_break_pict_16_selectorderoule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_break_pict_16_selectorderoule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_edt_13_np3_8_8_8_8_selectorfocus.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_edt_13_np3_8_8_8_8_selectorfocus.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_cbox_12_selectorselected_focus.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_cbox_12_selectorselected_focus.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_cbox_12_selectorselected_focus.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_cbox_12_selectorselected_focus.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_cbox_7_selectorselected_focus.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_cbox_7_selectorselected_focus.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_pixieray.xdd.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\pixieray.xdd"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_edt_8_np3_8_8_8_8_selectornormal.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_edt_8_np3_8_8_8_8_selectornormal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_edt_10_np3_8_8_8_8_selectordisabled.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_edt_10_np3_8_8_8_8_selectordisabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_edt_11_np3_8_8_8_8_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_edt_11_np3_8_8_8_8_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_break_pict_16_selectorenroule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_break_pict_16_selectorenroule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_cbox_9_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_cbox_9_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_cbox_12_selectorunselected_pressed.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_cbox_12_selectorunselected_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_cbox_10_selectorselected_pressed.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_cbox_10_selectorselected_pressed.png"
+    },
+    {
+        "merged": "com.innovgeek.pixieray-merged_res-32:/raw_icons8_bluetooth_20.svg.flat",
+        "source": "com.innovgeek.pixieray-gen-33:/raw/icons8_bluetooth_20.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_groupe_18_5.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\groupe_18_5.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_cbox_12_selectorunselected_normal.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_cbox_12_selectorunselected_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_cbox_7_selectorunselected_pressed.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_cbox_7_selectorunselected_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_cbox_7_selectorunselected_disabled.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_cbox_7_selectorunselected_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_edt_11_np3_8_8_8_8_selectorpressed.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_edt_11_np3_8_8_8_8_selectorpressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_icons_1_18.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\icons_1_18.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_cbox_12_selectorunselected_disabled.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_cbox_12_selectorunselected_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_groupe_16_23.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\groupe_16_23.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_break_pict_19_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_break_pict_19_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_cbox_12_selectorunselected_focus.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_cbox_12_selectorunselected_focus.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_cbox_12_selectorselected_disabled.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_cbox_12_selectorselected_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_break_pict_16_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_break_pict_16_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_cbox_12_selectorunselected_focus.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_cbox_12_selectorunselected_focus.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_break_pict_17_selectorderoule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_break_pict_17_selectorderoule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_cbox_10_selectorunselected_pressed.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_cbox_10_selectorunselected_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_break_pict_4_selectorderoule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_break_pict_4_selectorderoule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_break_pict_16_selectorenroule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_break_pict_16_selectorenroule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_cbox_10_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_cbox_10_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_edt_11_np3_8_8_8_8_selectorpressed.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_edt_11_np3_8_8_8_8_selectorpressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_cbox_9_selectorselected_normal.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_cbox_9_selectorselected_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_cbox_10_selectorselected_normal.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_cbox_10_selectorselected_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_cbox_10_selectorunselected_disabled.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_cbox_10_selectorunselected_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_icons8_arrow_26.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\icons8_arrow_26.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable_ixi_glasses_mix_removebg_8.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable\\ixi_glasses_mix_removebg_8.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_cbox_7_selectorselected_normal.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_cbox_7_selectorselected_normal.png"
+    },
+    {
+        "merged": "com.innovgeek.pixieray-merged_res-32:/raw_groupe_1_26.svg.flat",
+        "source": "com.innovgeek.pixieray-gen-33:/raw/groupe_1_26.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_break_pict_17_selectorenroule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_break_pict_17_selectorenroule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_icons8_checkmark_2_16.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\icons8_checkmark_2_16.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_cbox_10_selectorselected_disabled.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_cbox_10_selectorselected_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_edt_13_np3_8_8_8_8_selectorfocus.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_edt_13_np3_8_8_8_8_selectorfocus.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_break_pict_19_selectorderoule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_break_pict_19_selectorderoule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_break_pict_4_selectorderoule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_break_pict_4_selectorderoule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_groupe_7_13.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\groupe_7_13.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_i_c_o_n_e________2.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\i_c_o_n_e________2.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable_df_2.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable\\df_2.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_icons8_close_15.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\icons8_close_15.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_cbox_12_selectorselected_focus.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_cbox_12_selectorselected_focus.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_icons8_circle_chart_3.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\icons8_circle_chart_3.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_edt_8_np3_8_8_8_8_selectordisabled.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_edt_8_np3_8_8_8_8_selectordisabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_groupe_8_11.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\groupe_8_11.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_cbox_12_selectorunselected_pressed.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_cbox_12_selectorunselected_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_edt_11_np3_8_8_8_8_selectordisabled.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_edt_11_np3_8_8_8_8_selectordisabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_cbox_12_selectorselected_normal.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_cbox_12_selectorselected_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_edt_11_np3_8_8_8_8_selectorpressed.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_edt_11_np3_8_8_8_8_selectorpressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_cbox_12_selectorunselected_focus.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_cbox_12_selectorunselected_focus.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_cbox_10_selectorselected_normal.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_cbox_10_selectorselected_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_yuyuyuyu_19.mp4.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\yuyuyuyu_19.mp4"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_cbox_12_selectorunselected_focus.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_cbox_12_selectorunselected_focus.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_groupe_14_9.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\groupe_14_9.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_cbox_12_selectorselected_normal.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_cbox_12_selectorselected_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_break_pict_19_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_break_pict_19_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable_groupe_de_masques_1_6.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable\\groupe_de_masques_1_6.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_edt_8_np3_8_8_8_8_selectorfocus.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_edt_8_np3_8_8_8_8_selectorfocus.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_edt_13_np3_8_8_8_8_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_edt_13_np3_8_8_8_8_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_cbox_9_selectorunselected_disabled.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_cbox_9_selectorunselected_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_break_pict_17_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_break_pict_17_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_cbox_7_selectorselected_focus.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_cbox_7_selectorselected_focus.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_break_pict_4_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_break_pict_4_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_cbox_9_selectorunselected_normal.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_cbox_9_selectorunselected_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_groupe_16_18.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\groupe_16_18.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_cbox_7_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_cbox_7_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_img_chargement_01_7.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\img_chargement_01_7.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_break_pict_19_selectorderoule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_break_pict_19_selectorderoule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_cbox_9_selectorselected_normal.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_cbox_9_selectorselected_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_cbox_10_selectorselected_pressed.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_cbox_10_selectorselected_pressed.png"
+    },
+    {
+        "merged": "com.innovgeek.pixieray-merged_res-32:/drawable_groupe_de_masques_1_10.png.flat",
+        "source": "com.innovgeek.pixieray-gen-33:/drawable/groupe_de_masques_1_10.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_edt_11_np3_8_8_8_8_selectordisabled.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_edt_11_np3_8_8_8_8_selectordisabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_cbox_12_selectorselected_disabled.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_cbox_12_selectorselected_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_edt_11_np3_8_8_8_8_selectorhovered.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_edt_11_np3_8_8_8_8_selectorhovered.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_cbox_7_selectorselected_focus.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_cbox_7_selectorselected_focus.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_edt_10_np3_8_8_8_8_selectordisabled.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_edt_10_np3_8_8_8_8_selectordisabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_break_pict_16_selectorderoule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_break_pict_16_selectorderoule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_edt_8_np3_8_8_8_8_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_edt_8_np3_8_8_8_8_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_break_pict_4_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_break_pict_4_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_cbox_9_selectorunselected_focus.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_cbox_9_selectorunselected_focus.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_edt_10_np3_8_8_8_8_selectordisabled.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_edt_10_np3_8_8_8_8_selectordisabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_edt_13_np3_8_8_8_8_selectornormal.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_edt_13_np3_8_8_8_8_selectornormal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_cbox_12_selectorunselected_pressed.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_cbox_12_selectorunselected_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_cbox_10_selectorunselected_pressed.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_cbox_10_selectorunselected_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_icons8_circle_chart_2.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\icons8_circle_chart_2.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_edt_11_np3_8_8_8_8_selectorhovered.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_edt_11_np3_8_8_8_8_selectorhovered.9.png"
+    },
+    {
+        "merged": "com.innovgeek.pixieray-merged_res-32:/raw_icons8_arrow_27.svg.flat",
+        "source": "com.innovgeek.pixieray-gen-33:/raw/icons8_arrow_27.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_edt_8_np3_8_8_8_8_selectorpressed.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_edt_8_np3_8_8_8_8_selectorpressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_edt_13_np3_8_8_8_8_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_edt_13_np3_8_8_8_8_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_cbox_12_selectorunselected_normal.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_cbox_12_selectorunselected_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_cbox_7_selectorselected_focus.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_cbox_7_selectorselected_focus.png"
+    },
+    {
+        "merged": "com.innovgeek.pixieray-merged_res-32:/raw_yuyuyuyu_25.mp4.flat",
+        "source": "com.innovgeek.pixieray-gen-33:/raw/yuyuyuyu_25.mp4"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_cbox_10_selectorselected_disabled.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_cbox_10_selectorselected_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_icons_1_19.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\icons_1_19.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_cbox_12_selectorselected_disabled.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_cbox_12_selectorselected_disabled.png"
+    },
+    {
+        "merged": "com.innovgeek.pixieray-merged_res-32:/raw_img_chargement_01_6.svg.flat",
+        "source": "com.innovgeek.pixieray-gen-33:/raw/img_chargement_01_6.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_break_pict_4_selectorderoule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_break_pict_4_selectorderoule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_cbox_9_selectorunselected_disabled.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_cbox_9_selectorunselected_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_break_pict_19_selectorderoule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_break_pict_19_selectorderoule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_i_c_o_n_e________0.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\i_c_o_n_e________0.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable_groupe_17_12.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable\\groupe_17_12.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_break_pict_19_selectorenroule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_break_pict_19_selectorenroule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_icons8_close_13.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\icons8_close_13.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_cbox_9_selectorunselected_focus.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_cbox_9_selectorunselected_focus.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_groupe_10_8.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\groupe_10_8.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_edt_10_np3_8_8_8_8_selectordisabled.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_edt_10_np3_8_8_8_8_selectordisabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_cbox_10_selectorunselected_focus.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_cbox_10_selectorunselected_focus.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_img_chargement_01_4.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\img_chargement_01_4.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_edt_8_np3_8_8_8_8_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_edt_8_np3_8_8_8_8_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_cbox_7_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_cbox_7_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_edt_10_np3_8_8_8_8_selectorhovered.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_edt_10_np3_8_8_8_8_selectorhovered.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_cbox_10_selectorselected_disabled.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_cbox_10_selectorselected_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_groupe_15_19.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\groupe_15_19.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_cbox_7_selectorselected_disabled.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_cbox_7_selectorselected_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_break_pict_19_selectorderoule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_break_pict_19_selectorderoule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_edt_8_np3_8_8_8_8_selectorfocus.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_edt_8_np3_8_8_8_8_selectorfocus.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_cbox_10_selectorselected_focus.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_cbox_10_selectorselected_focus.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_groupe_16_22.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\groupe_16_22.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_edt_13_np3_8_8_8_8_selectorhovered.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_edt_13_np3_8_8_8_8_selectorhovered.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_groupe_8_14.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\groupe_8_14.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_cbox_7_selectorselected_pressed.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_cbox_7_selectorselected_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_cbox_9_selectorselected_focus.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_cbox_9_selectorselected_focus.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_i_c_o_n_e________2.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\i_c_o_n_e________2.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_break_pict_17_selectorderoule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_break_pict_17_selectorderoule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_groupe_14_11.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\groupe_14_11.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable_ixi_glasses_mix_removebg_6.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable\\ixi_glasses_mix_removebg_6.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_cbox_7_selectorselected_pressed.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_cbox_7_selectorselected_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_break_pict_17_selectorenroule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_break_pict_17_selectorenroule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_groupe_10_6.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\groupe_10_6.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_break_pict_16_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_break_pict_16_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_edt_8_np3_8_8_8_8_selectorhovered.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_edt_8_np3_8_8_8_8_selectorhovered.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_groupe_8_13.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\groupe_8_13.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_edt_10_np3_8_8_8_8_selectorfocus.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_edt_10_np3_8_8_8_8_selectorfocus.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_break_pict_4_selectorenroule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_break_pict_4_selectorenroule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable_a_3.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable\\a_3.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable_groupe_de_masques_1_3.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable\\groupe_de_masques_1_3.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_cbox_10_selectorunselected_pressed.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_cbox_10_selectorunselected_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_cbox_9_selectorunselected_focus.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_cbox_9_selectorunselected_focus.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_cbox_9_selectorunselected_normal.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_cbox_9_selectorunselected_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_groupe_7_15.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\groupe_7_15.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_edt_11_np3_8_8_8_8_selectornormal.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_edt_11_np3_8_8_8_8_selectornormal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_break_pict_14_selectorenroule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_break_pict_14_selectorenroule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_edt_11_np3_8_8_8_8_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_edt_11_np3_8_8_8_8_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable_ixi_glasses_mix_removebg_5.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable\\ixi_glasses_mix_removebg_5.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_edt_8_np3_8_8_8_8_selectorpressed.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_edt_8_np3_8_8_8_8_selectorpressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_cbox_10_selectorunselected_normal.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_cbox_10_selectorunselected_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_cbox_7_selectorunselected_pressed.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_cbox_7_selectorunselected_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_edt_13_np3_8_8_8_8_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_edt_13_np3_8_8_8_8_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable_groupe_de_masques_1_4.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable\\groupe_de_masques_1_4.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_edt_11_np3_8_8_8_8_selectordisabled.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_edt_11_np3_8_8_8_8_selectordisabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_edt_8_np3_8_8_8_8_selectorhovered.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_edt_8_np3_8_8_8_8_selectorhovered.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_groupe_15_22.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\groupe_15_22.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_cbox_7_selectorunselected_focus.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_cbox_7_selectorunselected_focus.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_edt_10_np3_8_8_8_8_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_edt_10_np3_8_8_8_8_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_break_pict_16_selectorenroule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_break_pict_16_selectorenroule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_cbox_7_selectorunselected_disabled.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_cbox_7_selectorunselected_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_edt_11_np3_8_8_8_8_selectorhovered.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_edt_11_np3_8_8_8_8_selectorhovered.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_edt_13_np3_8_8_8_8_selectorhovered.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_edt_13_np3_8_8_8_8_selectorhovered.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_img_chargement_01_5.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\img_chargement_01_5.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_cbox_10_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_cbox_10_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_edt_13_np3_8_8_8_8_selectorhovered.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_edt_13_np3_8_8_8_8_selectorhovered.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_cbox_12_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_cbox_12_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_cbox_7_selectorselected_disabled.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_cbox_7_selectorselected_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_groupe_16_21.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\groupe_16_21.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_edt_11_np3_8_8_8_8_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_edt_11_np3_8_8_8_8_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_edt_8_np3_8_8_8_8_selectornormal.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_edt_8_np3_8_8_8_8_selectornormal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_cbox_9_selectorselected_normal.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_cbox_9_selectorselected_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_cbox_9_selectorunselected_pressed.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_cbox_9_selectorunselected_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_edt_13_np3_8_8_8_8_selectornormal.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_edt_13_np3_8_8_8_8_selectornormal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_cbox_9_selectorunselected_focus.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_cbox_9_selectorunselected_focus.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_break_pict_14_selectorderoule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_break_pict_14_selectorderoule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_icons8_arrow_23.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\icons8_arrow_23.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_edt_11_np3_8_8_8_8_selectornormal.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_edt_11_np3_8_8_8_8_selectornormal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_edt_10_np3_8_8_8_8_selectornormal.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_edt_10_np3_8_8_8_8_selectornormal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_edt_11_np3_8_8_8_8_selectordisabled.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_edt_11_np3_8_8_8_8_selectordisabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_break_pict_19_selectorenroule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_break_pict_19_selectorenroule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_break_pict_4_selectorenroule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_break_pict_4_selectorenroule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_break_pict_4_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_break_pict_4_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_groupe_10_2.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\groupe_10_2.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_cbox_7_selectorunselected_pressed.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_cbox_7_selectorunselected_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_edt_10_np3_8_8_8_8_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_edt_10_np3_8_8_8_8_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_icons8_close_18.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\icons8_close_18.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_break_pict_14_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_break_pict_14_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable_df_5.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable\\df_5.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_break_pict_14_selectorenroule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_break_pict_14_selectorenroule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_edt_8_np3_8_8_8_8_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_edt_8_np3_8_8_8_8_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_cbox_12_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_cbox_12_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_cbox_12_selectorunselected_focus.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_cbox_12_selectorunselected_focus.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_cbox_9_selectorunselected_normal.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_cbox_9_selectorunselected_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_cbox_7_selectorselected_normal.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_cbox_7_selectorselected_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_break_pict_14_selectorderoule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_break_pict_14_selectorderoule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_break_pict_16_selectorderoule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_break_pict_16_selectorderoule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_edt_8_np3_8_8_8_8_selectorhovered.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_edt_8_np3_8_8_8_8_selectorhovered.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_i_c_o_n_e________0.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\i_c_o_n_e________0.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_cbox_12_selectorunselected_normal.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_cbox_12_selectorunselected_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable_a_1.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable\\a_1.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_cbox_7_selectorselected_normal.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_cbox_7_selectorselected_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_break_pict_14_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_break_pict_14_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_cbox_12_selectorselected_focus.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_cbox_12_selectorselected_focus.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_groupe_1_24.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\groupe_1_24.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_cbox_10_selectorselected_normal.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_cbox_10_selectorselected_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_break_pict_16_selectorenroule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_break_pict_16_selectorenroule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_cbox_7_selectorunselected_disabled.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_cbox_7_selectorunselected_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_cbox_12_selectorselected_normal.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_cbox_12_selectorselected_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_edt_11_np3_8_8_8_8_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_edt_11_np3_8_8_8_8_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_icons8_checkmark_2_19.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\icons8_checkmark_2_19.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_groupe_18_2.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\groupe_18_2.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_break_pict_14_selectorderoule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_break_pict_14_selectorderoule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_cbox_9_selectorunselected_pressed.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_cbox_9_selectorunselected_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_cbox_10_selectorselected_pressed.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_cbox_10_selectorselected_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_break_pict_17_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_break_pict_17_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_groupe_15_20.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\groupe_15_20.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_edt_10_np3_8_8_8_8_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_edt_10_np3_8_8_8_8_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_icons8_arrow_25.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\icons8_arrow_25.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_groupe_16_20.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\groupe_16_20.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_break_pict_4_selectorderoule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_break_pict_4_selectorderoule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_cbox_12_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_cbox_12_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_icons_1_20.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\icons_1_20.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_cbox_9_selectorselected_pressed.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_cbox_9_selectorselected_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_groupe_8_16.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\groupe_8_16.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_icons8_close_16.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\icons8_close_16.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_edt_10_np3_8_8_8_8_selectorpressed.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_edt_10_np3_8_8_8_8_selectorpressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_cbox_7_selectorunselected_pressed.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_cbox_7_selectorunselected_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_cbox_10_selectorselected_pressed.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_cbox_10_selectorselected_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_cbox_10_selectorunselected_disabled.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_cbox_10_selectorunselected_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable_ixi_glasses_mix_removebg_11.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable\\ixi_glasses_mix_removebg_11.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_cbox_7_selectorselected_disabled.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_cbox_7_selectorselected_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_break_pict_17_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_break_pict_17_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_break_pict_16_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_break_pict_16_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_cbox_10_selectorunselected_disabled.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_cbox_10_selectorunselected_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_groupe_1_22.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\groupe_1_22.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_edt_11_np3_8_8_8_8_selectorfocus.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_edt_11_np3_8_8_8_8_selectorfocus.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_cbox_10_selectorselected_normal.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_cbox_10_selectorselected_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_cbox_7_selectorunselected_normal.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_cbox_7_selectorunselected_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_edt_11_np3_8_8_8_8_selectorhovered.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_edt_11_np3_8_8_8_8_selectorhovered.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_edt_10_np3_8_8_8_8_selectordisabled.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_edt_10_np3_8_8_8_8_selectordisabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_edt_13_np3_8_8_8_8_selectorfocus.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_edt_13_np3_8_8_8_8_selectorfocus.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_wm_app_options.properties.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\wm_app_options.properties"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_cbox_10_selectorselected_focus.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_cbox_10_selectorselected_focus.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_edt_10_np3_8_8_8_8_selectorpressed.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_edt_10_np3_8_8_8_8_selectorpressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_cbox_12_selectorselected_pressed.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_cbox_12_selectorselected_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_break_pict_19_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_break_pict_19_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_break_pict_16_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_break_pict_16_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_cbox_9_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_cbox_9_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_cbox_9_selectorunselected_disabled.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_cbox_9_selectorunselected_disabled.png"
+    },
+    {
+        "merged": "com.innovgeek.pixieray-merged_res-32:/raw_groupe_16_24.svg.flat",
+        "source": "com.innovgeek.pixieray-gen-33:/raw/groupe_16_24.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_cbox_9_selectorunselected_disabled.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_cbox_9_selectorunselected_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_cbox_10_selectorselected_focus.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_cbox_10_selectorselected_focus.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_cbox_10_selectorunselected_pressed.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_cbox_10_selectorunselected_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_cbox_12_selectorselected_disabled.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_cbox_12_selectorselected_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_break_pict_19_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_break_pict_19_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable_df_1.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable\\df_1.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_cbox_7_selectorselected_focus.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_cbox_7_selectorselected_focus.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_cbox_12_selectorselected_pressed.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_cbox_12_selectorselected_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_icons8_arrow_21.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\icons8_arrow_21.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_edt_11_np3_8_8_8_8_selectorfocus.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_edt_11_np3_8_8_8_8_selectorfocus.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_edt_10_np3_8_8_8_8_selectornormal.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_edt_10_np3_8_8_8_8_selectornormal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_cbox_10_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_cbox_10_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_cbox_9_selectorunselected_normal.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_cbox_9_selectorunselected_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable_groupe_17_14.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable\\groupe_17_14.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_edt_11_np3_8_8_8_8_selectorhovered.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_edt_11_np3_8_8_8_8_selectorhovered.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_edt_13_np3_8_8_8_8_selectorhovered.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_edt_13_np3_8_8_8_8_selectorhovered.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_edt_10_np3_8_8_8_8_selectorpressed.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_edt_10_np3_8_8_8_8_selectorpressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_icons_1_17.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\icons_1_17.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_edt_10_np3_8_8_8_8_selectorpressed.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_edt_10_np3_8_8_8_8_selectorpressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_cbox_12_selectorunselected_disabled.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_cbox_12_selectorunselected_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_break_pict_14_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_break_pict_14_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_i_c_o_n_e________2.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\i_c_o_n_e________2.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_groupe_15_17.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\groupe_15_17.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_cbox_10_selectorunselected_normal.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_cbox_10_selectorunselected_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_cbox_9_selectorunselected_disabled.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_cbox_9_selectorunselected_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_cbox_12_selectorselected_normal.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_cbox_12_selectorselected_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_break_pict_17_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_break_pict_17_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_break_pict_14_selectorenroule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_break_pict_14_selectorenroule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_cbox_7_selectorunselected_focus.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_cbox_7_selectorunselected_focus.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-ldpi_i_c_o_n_e________0.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-ldpi\\i_c_o_n_e________0.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable_df_7.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable\\df_7.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_cbox_9_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_cbox_9_selector.xml"
+    },
+    {
+        "merged": "com.innovgeek.pixieray-merged_res-32:/raw_groupe_11_19.svg.flat",
+        "source": "com.innovgeek.pixieray-gen-33:/raw/groupe_11_19.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_cbox_12_selectorselected_focus.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_cbox_12_selectorselected_focus.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_edt_13_np3_8_8_8_8_selectorfocus.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_edt_13_np3_8_8_8_8_selectorfocus.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_cbox_12_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_cbox_12_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_edt_10_np3_8_8_8_8_selectorhovered.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_edt_10_np3_8_8_8_8_selectorhovered.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_cbox_10_selectorunselected_pressed.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_cbox_10_selectorunselected_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_cbox_10_selectorunselected_focus.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_cbox_10_selectorunselected_focus.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_cbox_12_selectorunselected_disabled.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_cbox_12_selectorunselected_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_edt_8_np3_8_8_8_8_selectordisabled.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_edt_8_np3_8_8_8_8_selectordisabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_yuyuyuyu_21.mp4.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\yuyuyuyu_21.mp4"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_cbox_10_selectorunselected_focus.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_cbox_10_selectorunselected_focus.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_edt_13_np3_8_8_8_8_selectordisabled.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_edt_13_np3_8_8_8_8_selectordisabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_cbox_10_selectorselected_pressed.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_cbox_10_selectorselected_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_cbox_9_selectorselected_pressed.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_cbox_9_selectorselected_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_break_pict_19_selectorenroule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_break_pict_19_selectorenroule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_cbox_7_selectorselected_pressed.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_cbox_7_selectorselected_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_i_c_o_n_e________2.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\i_c_o_n_e________2.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_break_pict_14_selectorenroule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_break_pict_14_selectorenroule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_break_pict_4_selectorenroule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_break_pict_4_selectorenroule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_edt_10_np3_8_8_8_8_selectorhovered.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_edt_10_np3_8_8_8_8_selectorhovered.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_cbox_9_selectorselected_disabled.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_cbox_9_selectorselected_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_break_pict_14_selectorderoule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_break_pict_14_selectorderoule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_edt_13_np3_8_8_8_8_selectorpressed.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_edt_13_np3_8_8_8_8_selectorpressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_edt_13_np3_8_8_8_8_selectordisabled.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_edt_13_np3_8_8_8_8_selectordisabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_img_chargement_01_8.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\img_chargement_01_8.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_cbox_12_selectorunselected_pressed.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_cbox_12_selectorunselected_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_groupe_18_4.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\groupe_18_4.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_cbox_7_selectorunselected_focus.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_cbox_7_selectorunselected_focus.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_cbox_7_selectorunselected_disabled.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_cbox_7_selectorunselected_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_cbox_7_selectorunselected_normal.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_cbox_7_selectorunselected_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_edt_8_np3_8_8_8_8_selectorpressed.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_edt_8_np3_8_8_8_8_selectorpressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_cbox_7_selectorunselected_disabled.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_cbox_7_selectorunselected_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_groupe_7_12.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\groupe_7_12.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_edt_10_np3_8_8_8_8_selectorfocus.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_edt_10_np3_8_8_8_8_selectorfocus.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_edt_13_np3_8_8_8_8_selectorpressed.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_edt_13_np3_8_8_8_8_selectorpressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_edt_8_np3_8_8_8_8_selectordisabled.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_edt_8_np3_8_8_8_8_selectordisabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_edt_13_np3_8_8_8_8_selectorfocus.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_edt_13_np3_8_8_8_8_selectorfocus.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_edt_11_np3_8_8_8_8_selectorfocus.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_edt_11_np3_8_8_8_8_selectorfocus.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_cbox_9_selectorselected_normal.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_cbox_9_selectorselected_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_edt_8_np3_8_8_8_8_selectorhovered.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_edt_8_np3_8_8_8_8_selectorhovered.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_cbox_10_selectorunselected_normal.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_cbox_10_selectorunselected_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_edt_13_np3_8_8_8_8_selectorhovered.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_edt_13_np3_8_8_8_8_selectorhovered.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_break_pict_16_selectorderoule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_break_pict_16_selectorderoule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_cbox_9_selectorselected_pressed.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_cbox_9_selectorselected_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_cbox_10_selectorunselected_disabled.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_cbox_10_selectorunselected_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_break_pict_16_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_break_pict_16_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable_ixi_glasses_mix_removebg_9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable\\ixi_glasses_mix_removebg_9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_cbox_9_selectorselected_focus.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_cbox_9_selectorselected_focus.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_icons8_circle_chart_5.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\icons8_circle_chart_5.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_edt_10_np3_8_8_8_8_selectorhovered.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_edt_10_np3_8_8_8_8_selectorhovered.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_edt_11_np3_8_8_8_8_selectordisabled.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_edt_11_np3_8_8_8_8_selectordisabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_edt_11_np3_8_8_8_8_selectornormal.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_edt_11_np3_8_8_8_8_selectornormal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_break_pict_4_selectorenroule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_break_pict_4_selectorenroule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_i_c_o_n_e________2.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\i_c_o_n_e________2.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_break_pict_4_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_break_pict_4_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_cbox_10_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_cbox_10_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_break_pict_19_selectorenroule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_break_pict_19_selectorenroule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable_groupe_de_masques_1_7.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable\\groupe_de_masques_1_7.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_edt_8_np3_8_8_8_8_selectorpressed.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_edt_8_np3_8_8_8_8_selectorpressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_cbox_7_selectorselected_normal.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_cbox_7_selectorselected_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_cbox_7_selectorselected_normal.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_cbox_7_selectorselected_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_edt_11_np3_8_8_8_8_selectorfocus.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_edt_11_np3_8_8_8_8_selectorfocus.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_edt_10_np3_8_8_8_8_selectorfocus.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_edt_10_np3_8_8_8_8_selectorfocus.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_break_pict_14_selectorenroule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_break_pict_14_selectorenroule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_edt_13_np3_8_8_8_8_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_edt_13_np3_8_8_8_8_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_edt_8_np3_8_8_8_8_selectorfocus.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_edt_8_np3_8_8_8_8_selectorfocus.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_icons8_checkmark_2_21.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\icons8_checkmark_2_21.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_cbox_7_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_cbox_7_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_break_pict_16_selectorderoule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_break_pict_16_selectorderoule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_cbox_12_selectorunselected_disabled.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_cbox_12_selectorunselected_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_i_c_o_n_e________0.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\i_c_o_n_e________0.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_break_pict_14_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_break_pict_14_selector.xml"
+    },
+    {
+        "merged": "com.innovgeek.pixieray-merged_res-32:/raw_icons_1_21.svg.flat",
+        "source": "com.innovgeek.pixieray-gen-33:/raw/icons_1_21.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable_logo_pixieray_light_3x_6.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable\\logo_pixieray_light_3x_6.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_edt_8_np3_8_8_8_8_selectorhovered.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_edt_8_np3_8_8_8_8_selectorhovered.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_edt_8_np3_8_8_8_8_selectorfocus.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_edt_8_np3_8_8_8_8_selectorfocus.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_cbox_12_selectorselected_pressed.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_cbox_12_selectorselected_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_break_pict_16_selectorenroule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_break_pict_16_selectorenroule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_edt_11_np3_8_8_8_8_selectorpressed.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_edt_11_np3_8_8_8_8_selectorpressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_cbox_7_selectorselected_disabled.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_cbox_7_selectorselected_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_cbox_9_selectorselected_disabled.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_cbox_9_selectorselected_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_cbox_9_selectorselected_focus.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_cbox_9_selectorselected_focus.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_edt_13_np3_8_8_8_8_selectorpressed.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_edt_13_np3_8_8_8_8_selectorpressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_cbox_9_selectorunselected_pressed.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_cbox_9_selectorunselected_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_cbox_12_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_cbox_12_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_edt_11_np3_8_8_8_8_selectornormal.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_edt_11_np3_8_8_8_8_selectornormal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_edt_13_np3_8_8_8_8_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_edt_13_np3_8_8_8_8_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_edt_13_np3_8_8_8_8_selectornormal.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_edt_13_np3_8_8_8_8_selectornormal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_cbox_7_selectorunselected_normal.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_cbox_7_selectorunselected_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_break_pict_17_selectorderoule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_break_pict_17_selectorderoule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_break_pict_19_selectorenroule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_break_pict_19_selectorenroule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_yuyuyuyu_23.mp4.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\yuyuyuyu_23.mp4"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_cbox_12_selectorselected_pressed.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_cbox_12_selectorselected_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_edt_8_np3_8_8_8_8_selectorpressed.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_edt_8_np3_8_8_8_8_selectorpressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_cbox_10_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_cbox_10_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable_groupe_de_masques_1_9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable\\groupe_de_masques_1_9.png"
+    },
+    {
+        "merged": "com.innovgeek.pixieray-merged_res-32:/raw_icons8_checkmark_2_22.svg.flat",
+        "source": "com.innovgeek.pixieray-gen-33:/raw/icons8_checkmark_2_22.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_cbox_9_selectorselected_disabled.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_cbox_9_selectorselected_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_groupe_1_20.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\groupe_1_20.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_break_pict_4_selectorderoule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_break_pict_4_selectorderoule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_cbox_9_selectorunselected_pressed.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_cbox_9_selectorunselected_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_cbox_7_selectorselected_disabled.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_cbox_7_selectorselected_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_edt_13_np3_8_8_8_8_selectordisabled.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_edt_13_np3_8_8_8_8_selectordisabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_break_pict_19_selectorderoule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_break_pict_19_selectorderoule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_edt_10_np3_8_8_8_8_selectorfocus.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_edt_10_np3_8_8_8_8_selectorfocus.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_edt_8_np3_8_8_8_8_selectornormal.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_edt_8_np3_8_8_8_8_selectornormal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_yuyuyuyu_24.mp4.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\yuyuyuyu_24.mp4"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_edt_13_np3_8_8_8_8_selectorpressed.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_edt_13_np3_8_8_8_8_selectorpressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_cbox_7_selectorunselected_focus.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_cbox_7_selectorunselected_focus.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_cbox_9_selectorunselected_pressed.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_cbox_9_selectorunselected_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_cbox_7_selectorunselected_normal.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_cbox_7_selectorunselected_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable_logo_pixieray_light_3x_4.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable\\logo_pixieray_light_3x_4.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable_groupe_17_15.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable\\groupe_17_15.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_edt_10_np3_8_8_8_8_selectornormal.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_edt_10_np3_8_8_8_8_selectornormal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_cbox_10_selectorunselected_focus.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_cbox_10_selectorunselected_focus.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_cbox_10_selectorselected_disabled.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_cbox_10_selectorselected_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_cbox_9_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_cbox_9_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_edt_13_np3_8_8_8_8_selectorpressed.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_edt_13_np3_8_8_8_8_selectorpressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_edt_11_np3_8_8_8_8_selectorpressed.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_edt_11_np3_8_8_8_8_selectorpressed.9.png"
+    },
+    {
+        "merged": "com.innovgeek.pixieray-merged_res-32:/raw_groupe_10_9.svg.flat",
+        "source": "com.innovgeek.pixieray-gen-33:/raw/groupe_10_9.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_edt_13_np3_8_8_8_8_selectordisabled.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_edt_13_np3_8_8_8_8_selectordisabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_edt_13_np3_8_8_8_8_selectornormal.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_edt_13_np3_8_8_8_8_selectornormal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_break_pict_4_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_break_pict_4_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_cbox_9_selectorselected_disabled.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_cbox_9_selectorselected_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_break_pict_14_selectorderoule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_break_pict_14_selectorderoule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_groupe_7_10.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\groupe_7_10.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_cbox_9_selectorselected_focus.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_cbox_9_selectorselected_focus.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-ldpi_i_c_o_n_e________2.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-ldpi\\i_c_o_n_e________2.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_edt_10_np3_8_8_8_8_selectorpressed.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_edt_10_np3_8_8_8_8_selectorpressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_icons_1_15.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\icons_1_15.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_break_pict_17_selectorenroule.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_break_pict_17_selectorenroule.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_cbox_10_selectorunselected_focus.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_cbox_10_selectorunselected_focus.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-hdpi_phoenix_edt_11_np3_8_8_8_8_selectorfocus.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-hdpi\\phoenix_edt_11_np3_8_8_8_8_selectorfocus.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_cbox_12_selectorunselected_normal.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_cbox_12_selectorunselected_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\raw_icons8_checkmark_2_20.svg.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\raw\\icons8_checkmark_2_20.svg"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxxhdpi_phoenix_cbox_12_selectorunselected_disabled.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxxhdpi\\phoenix_cbox_12_selectorunselected_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_edt_10_np3_8_8_8_8_selectornormal.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_edt_10_np3_8_8_8_8_selectornormal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_edt_11_np3_8_8_8_8_selectornormal.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_edt_11_np3_8_8_8_8_selectornormal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_edt_8_np3_8_8_8_8_selectornormal.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_edt_8_np3_8_8_8_8_selectornormal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_i_c_o_n_e________0.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\i_c_o_n_e________0.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_cbox_7_selectorunselected_focus.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_cbox_7_selectorunselected_focus.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xhdpi_phoenix_cbox_10_selectorselected_normal.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xhdpi\\phoenix_cbox_10_selectorselected_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-mdpi_phoenix_edt_13_np3_8_8_8_8_selectornormal.9.png.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-mdpi\\phoenix_edt_13_np3_8_8_8_8_selectornormal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-merged_res-32:\\drawable-xxhdpi_phoenix_edt_8_np3_8_8_8_8_selector.xml.flat",
+        "source": "C:\\Users\\f_ham\\.gradle\\daemon\\7.5.1\\com.innovgeek.pixieray-gen-33:\\drawable-xxhdpi\\phoenix_edt_8_np3_8_8_8_8_selector.xml"
+    }
+]

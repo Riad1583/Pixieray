@@ -1,0 +1,5 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Employee		TAR	827	nouvelle taille enregistrement : 827
+Employee	Departement	RUB+		Departement est une nouvelle rubrique
+Employee	Ntel	RUB+		Ntel est une nouvelle rubrique
+Employee	JobTitel	RUB+		JobTitel est une nouvelle rubrique

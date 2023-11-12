@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+  <g id="Groupe_8" data-name="Groupe 8" transform="translate(-206 -696)">
+    <g id="Ellipse_7" data-name="Ellipse 7" transform="translate(206 696)" fill="#060606" stroke="#060606" stroke-width="1">
+      <circle cx="28" cy="28" r="28" stroke="none"/>
+      <circle cx="28" cy="28" r="27.5" fill="none"/>
+    </g>
+    <path id="icons8_facebook_f" d="M16.562,9.119H14.119V7.085c0-1.049.085-1.71,1.589-1.71h.883a1.017,1.017,0,0,0,1.017-1.017V3.082a1.02,1.02,0,0,0-.939-1.022Q15.748,2,14.823,2a4.448,4.448,0,0,0-4.772,4.779v2.34H8.017A1.017,1.017,0,0,0,7,10.136v2.034a1.017,1.017,0,0,0,1.017,1.017h2.034v8.137a1.017,1.017,0,0,0,1.017,1.017H13.1a1.017,1.017,0,0,0,1.017-1.017V13.183h2.211a1.017,1.017,0,0,0,1.01-.9l.233-2.03A1.016,1.016,0,0,0,16.562,9.119Z" transform="translate(221.696 711.831)" fill="#fff"/>
+  </g>
+</svg>
